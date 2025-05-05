@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Sebastian Rueda</h1>
 <h3 align="center">A passionate Full Stack developer from Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crodrigr&label=Profile%20views&color=0e75b6&style=flat" alt="crodrigr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sebasrb08&label=Profile%20views&color=0e75b6&style=flat" alt="sebasrb08" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crodrigr" alt="crodrigr" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebasrb08" alt="sebasrb08" /></a> </p>
 
 🔭 I’m studying Systems Engineering
 
